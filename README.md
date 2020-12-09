@@ -8,9 +8,9 @@ For our week 2 project, we were tasked with building a responsive portfolio page
 
 ## This is the end result
 
-![About Me](assets/aboutme.PNG)
-![Portfolio](assets/portfolio.PNG)
-![Contact](assets/contact.PNG)
+![About Me](Assets/aboutme.PNG)
+![Portfolio](Assets/portfolio.PNG)
+![Contact](Assets/contact.PNG)
 
 ## Where to access code
 
